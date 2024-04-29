@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Far-Away-Travel-Packing-List/static/css/main.3f033a6a.css",
+    "main.js": "/Far-Away-Travel-Packing-List/static/js/main.a0048b3b.js",
+    "index.html": "/Far-Away-Travel-Packing-List/index.html",
+    "main.3f033a6a.css.map": "/Far-Away-Travel-Packing-List/static/css/main.3f033a6a.css.map",
+    "main.a0048b3b.js.map": "/Far-Away-Travel-Packing-List/static/js/main.a0048b3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f033a6a.css",
+    "static/js/main.a0048b3b.js"
+  ]
+}
